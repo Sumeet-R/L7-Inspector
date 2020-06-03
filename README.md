@@ -6,8 +6,17 @@ https://www.youtube.com/watch?v=ycG3h_wuMTE
 
 <br>
 <h4>Description</h4>
-The tool 
+The tool can be used to find various Layer7 injection payloads from any webserver logs when fed into its input. The payloads used as a conditional strings can be found in it's payload directory and can be further used in building SIEM,WAF,IDPS rules.
 <br>
+Currently following attack payloads are supported as follows:
+<br>
+1) SQL Injection<br>
+2) Cross-Site-Scripting<br>
+3) LDAP Injection<br>
+4) Directory Traversal<br>
+5) Command Injection<br>
+6) XPATH Injection<br>
+7) CRLF Injection<br>
 
 <h4>Installation on Linux</h4>
 1) sudo apt-get install python3
