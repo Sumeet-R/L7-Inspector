@@ -1,15 +1,15 @@
 # L7-Inpector
 A python based security auditing tool that can find various injection payloads from web server and application logs
 
-<h2>Short working demonstration</h2>
+<h4>Short working demonstration</h4>
 https://www.youtube.com/watch?v=ycG3h_wuMTE
 
 <br>
-<h2>Description</h2>
+<h4>Description</h4>
 The tool 
 <br>
 
-<h2>Installation on Linux</h2>
+<h4>Installation on Linux</h4>
 1) sudo apt-get install python3
 <br>
 2) sudo apt-get install python3-pip
