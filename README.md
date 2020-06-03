@@ -10,7 +10,6 @@ The tool
 <br>
 
 <h2>Installation on Linux</h2>
-<br>
 1) sudo apt-get install python3
 <br>
 2) sudo apt-get install python3-pip
