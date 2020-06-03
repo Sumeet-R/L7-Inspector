@@ -10,10 +10,17 @@ The tool
 <br>
 
 <h2>Installation on Linux</h2>
+<br>
 1) sudo apt-get install python3
+<br>
 2) sudo apt-get install python3-pip
+<br>
 3) cd ~
+<br>
 4) git clone https://github.com/Sumeet-R/L7-Inspector
+<br>
 5) cd L7-Inspector/
+<br>
 6) pip3 install -v -r requirements.txt
+<br>
 7) python3 L7-Inspector.py
