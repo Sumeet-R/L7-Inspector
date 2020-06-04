@@ -31,6 +31,6 @@ The tool can be used to find various Layer7 injection payloads from any webserve
 <br>
 6) pip3 install -v -r requirements.txt
 <br>
-7) unzip payloads.zip
+7) unzip payloads.zip -d ./payloads/
 <br>
 8) python3 L7-Inspector.py
